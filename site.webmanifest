@@ -1,0 +1,16 @@
+{
+  "name": "Vignaharta Infraforge Pvt. Ltd.",
+  "short_name": "Vignaharta",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#17191C",
+  "theme_color": "#17191C",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
